@@ -10,7 +10,7 @@
 NeuroEvolution of Augmenting Topologies (NEAT) is a genetic algorithm (GA) for the generation of evolving artificial neural networks. Its uses concepts like mutation , speciation , cross over ETC to train the model over time. NEAT is one of the best algo to date for evolving network topologies.
 
 # Map generation
-This is simple map which is created by Adobe Photoshop or you can use your convenient software like Microsoft Paint etc. You can use pen tool to create smoother curves. You need to draw track in black and background in white with track starting and end position be [830, 920] and track resolution must be 1920 * 1080. 
+This is simple map which is created by Adobe Photoshop or you can use your convenient software like Microsoft Paint etc. You can use pen tool to create smoother curves. You need to draw track in black and background in white with track starting and end position be (830, 920) and track resolution must be 1920 * 1080. 
 ![image](https://user-images.githubusercontent.com/83497079/198850012-53656959-4712-4aa1-86e0-6634c68487b8.png)
 
 
